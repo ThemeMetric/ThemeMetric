@@ -2,7 +2,7 @@
 <h3 align="left">I am a freelance WordPrress Developer </h3>
 
 <a href="https://shweb.me">
-  <img src="https://shweb.me/wp-content/uploads/2021/03/coding.jpg" alt="Sajjad Hossain" align="right" />
+  <img src="https://i.postimg.cc/W3GtyynX/code.png" alt="Sajjad Hossain" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Upwork**
